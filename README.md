@@ -58,3 +58,6 @@ Thanks for using our bot 😺
    - Special thanks to [LonamiWebs](https://github.com/LonamiWebs/Telethon/) for Telethon library.
    - To all devs of these [Userbots](https://github.com/TgCatUB/catuserbot/tree/bugs#inspiration)
    - Finally to all [contributors of Catuserbot](https://github.com/TgCatUB/catuserbot/graphs/contributors)
+<a href="https://render.com/deploy?repo=https://github.com/sandy1709/catuserbot">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
